@@ -17,8 +17,8 @@ sites:
     url: https://www.transparencia.una.ac.cr/    
   - name: Portal Preguntas Frecuentes
     url: https://www.preguntasfrecuentes.una.ac.cr/
-  - name: Portal COVID19
-    url: https://www.covid19.una.ac.cr/
+#  - name: Portal COVID19
+#    url: https://www.covid19.una.ac.cr/
   - name: Portal Documentos
     url: https://www.documentos.una.ac.cr/
   - name: Portal Repositorio

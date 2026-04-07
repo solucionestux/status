@@ -18,7 +18,7 @@ sites:
   - name: Portal Preguntas Frecuentes
     url: https://www.preguntasfrecuentes.una.ac.cr/
   - name: Portal Documentos
-    url: https://www.documentos.una.ac.cr/
+    url: https://documentos.una.ac.cr/
   - name: Portal Repositorio
     url: https://www.repositorio.una.ac.cr/
   - name: Portal Revistas Universitarias
@@ -30,7 +30,7 @@ sites:
   - name: Portal Registro
     url: https://www.registro.una.ac.cr/
   - name: Aula Virtual - Institucional
-    url: https://www.aulavirtual.una.ac.cr/
+    url: https://aulavirtual.una.ac.cr/
     start: 2022-05-03T08:00:00.000Z
     end: 2022-05-06T14:00:00.220Z
     expectedDown: Aula Virtual - Institucional
